@@ -1,2 +1,4 @@
 # swift5_learning
-Learning project of swift5
+* Learning git and github
+* Learning swift5
+* Learning algorithm in swift
